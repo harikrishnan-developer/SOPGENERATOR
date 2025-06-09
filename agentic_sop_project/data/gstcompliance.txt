@@ -1,0 +1,13 @@
+Title: GST Compliance SOP
+
+Objective: To ensure accurate and timely compliance with Goods and Services Tax (GST) regulations.
+
+Scope: Applies to all financial transactions subject to GST within the company.
+
+Procedure:
+1. Monthly GST returns must be prepared and filed through the government portal by the 15th of each month.
+2. Input tax credit must be reconciled with vendor invoices.
+3. Any discrepancies must be resolved before filing the final return.
+4. Records of filed GST returns must be maintained for a minimum of 6 years.
+
+Compliance: All GST filings must adhere to current regulations as outlined by the GST Council.

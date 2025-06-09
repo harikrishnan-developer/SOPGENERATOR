@@ -1,0 +1,13 @@
+Title: Vendor Invoice Processing SOP
+
+Objective: To ensure timely and accurate processing of vendor invoices.
+
+Scope: All vendor-related invoices across departments.
+
+Procedure:
+1. Vendor submits invoice to accounts@company.com.
+2. AP clerk verifies purchase order (PO) match.
+3. Approvals routed through procurement.
+4. Payment processed within 15 business days.
+
+Compliance: All invoices must match a valid PO and be approved prior to payment.

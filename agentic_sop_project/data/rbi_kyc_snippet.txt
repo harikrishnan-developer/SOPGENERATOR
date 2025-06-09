@@ -1,0 +1,14 @@
+Title: KYC Compliance SOP
+
+Objective: To ensure compliance with RBI-mandated Know Your Customer (KYC) requirements for all financial transactions.
+
+Scope: Applies to all new customer onboarding and periodic KYC updates.
+
+Procedure:
+1. Collect valid Proof of Identity (Aadhar, Passport) and Proof of Address during onboarding.
+2. Verify PAN card details through the official verification portal.
+3. Conduct periodic KYC reviews for existing customers as per RBI guidelines.
+4. Maintain secure electronic records of all KYC documentation.
+5. Report any suspicious activity to the designated compliance officer.
+
+Compliance: All KYC procedures must strictly adhere to the latest RBI circulars and guidelines.
